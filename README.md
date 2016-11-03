@@ -1,12 +1,12 @@
-# Udacity 機器學習課程實務
+# Udacity 機器學習課程實戰
 
 這個專案存放了我在 Udacity Intro to Maching Learning 的課程練習，在開始前，請先參照[這裡](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30199885720923#)配置好實驗環境 :)
 
 我們將會用到:
-* numpy
-* scipy
-* sklearn
-* nltk
+* [numpy](http://www.numpy.org/)
+* [scipy](https://www.scipy.org/)
+* [sklearn](http://scikit-learn.org/)
+* [nltk](http://www.nltk.org/)
 
 ## 項目背景
 
@@ -24,6 +24,12 @@ From [Udacity-Intro-to-Machine-Learning](https://classroom.udacity.com/courses/u
 
 ## 目錄簡介
 
+### 監督式學習
 * naive_bayes: 使用貝葉斯分類器來做文本作者辨識
 * svm        : 使用支持向量機來做文本作者辨識
 * decision_tree: 使用決策樹來做文本作者辨識
+* knn : 使用近鄰算法來決定無人駕駛車的速率
+
+## TODO
+
+* 項目全部完成後，追加 Ipython 版本
